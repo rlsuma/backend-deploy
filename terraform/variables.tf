@@ -19,4 +19,8 @@ variable "common_tags" {
 
 variable "zone_name" {
   default = "rlsu.shop"
+} 
+
+variable "app_version" {
+  
 }
