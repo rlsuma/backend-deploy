@@ -26,7 +26,7 @@ pipeline {
             steps{
                 sh """
                     cd terraform
-                    terraform init -var="app_version=${params.appVersion}"
+                    terraform init 
             """
            }
         }
