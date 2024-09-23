@@ -21,6 +21,6 @@ variable "zone_name" {
   default = "rlsu.shop"
 } 
 
-variable "app_version" {
+variable "app_Version" {
   
 }
